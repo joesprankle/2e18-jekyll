@@ -1,0 +1,12 @@
+# Setup
+name:         2e18
+tagline:      
+baseurl:      ""
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
